@@ -15,10 +15,10 @@ This is a Python application that allows you to scan QR codes using your camera 
 
 ## Installation
 
-1. Clone the repository:
+
 
 ```shell
-git clone https://github.com/your-username/qr-code-scanner.git
+1. Clone the repository:
 Navigate to the project directory:
 shell
 Copy code
