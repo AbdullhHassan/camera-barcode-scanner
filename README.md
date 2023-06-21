@@ -2,9 +2,6 @@
 This is a Python application that allows you to scan QR codes using your camera and search for the scanned code in an Excel database.
 
 
-# QR Code Scanner
-
-This is a Python application that allows you to scan QR codes using your camera and search for the scanned code in an Excel database.
 
 ## Prerequisites
 
@@ -14,7 +11,6 @@ This is a Python application that allows you to scan QR codes using your camera 
 - openpyxl library
 
 ## Installation
-
 
 
 ```shell
